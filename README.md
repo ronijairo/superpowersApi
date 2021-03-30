@@ -54,13 +54,9 @@ Ejecutar en CMD
 
 #### Documentacion
 
-URL DE LEOPOLDO Y BETO
 
 ## Configuración general de aplicación
 * ng serve 
-
-
-
 
 
 ## Plugins agregados
