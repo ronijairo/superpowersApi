@@ -18,7 +18,14 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 * NODE JS `v14.15.4`
 * NPM `7.5.2`
 
-## Recomendaciones
+## Documentación de materiales
+* https://angular.io/docs
+* https://material.angular.io/
+* https://rickandmortyapi.com/
+* https://pokeapi.co/
+* http://flexboxgrid.com/
+* https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
 
 #### GIT
 
@@ -89,7 +96,7 @@ Flexbox:
 
 > Ejemplo de  routing, 
 
-Buenas paracticas de como usar el routing, para heredar a partir de una plantilla
+Buenas paracticas de como usar el routing, para heredar apartir de una plantilla
 
 ```
 const routes: Routes = [
