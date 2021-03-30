@@ -1,0 +1,22 @@
+.crop-image {
+    height: 200px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    img {
+        position: absolute;
+        top: 20%;
+        left: 50%;
+        transform: translate(-50%, -50px);
+        max-width: 100%;
+    }
+}
+
+.product-card {
+    background: #3c3e44;
+    color: white;
+}
+
+.btnDetalle {
+    width: 100%;
+}
